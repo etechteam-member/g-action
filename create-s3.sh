@@ -3,7 +3,7 @@
 set -e
 
 # Variables
-BUCKET_NAME="my-unique-imma1xyz"
+BUCKET_NAME="my-unique-imma12xyz"
 AWS_REGION="us-east-1"
 
 if [[ -z "$BUCKET_NAME" || -z "$AWS_REGION" ]]; then
